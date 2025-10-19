@@ -1,4 +1,4 @@
-# College Resource System
+# College Resource Management System
 
 This is a full-stack web application designed to help students manage their college resources, including notes, assignments, and events.
 
